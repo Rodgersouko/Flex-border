@@ -1,0 +1,17 @@
+.text{
+    float:  left;
+    width: 25%;
+    border: 2px solid black;
+    margin-left: 5%;
+    padding: 5px;
+    background-color: hotpink;
+}
+p{
+    color: blue;
+}
+ul{
+    color: red;
+}
+body{
+    background-color: grey;
+}
